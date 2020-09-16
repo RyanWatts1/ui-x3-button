@@ -6,7 +6,12 @@
 .btn{
   width: 100px;
   height: 100px; 
+  margin-top: 100px;
   border-radius: 1em;
   color: rgb(238, 210, 184);
   background-color: rgb(151, 218, 180);
+}
+
+.btn:hover {
+  background-color: rgb(56, 87, 56);
 }
