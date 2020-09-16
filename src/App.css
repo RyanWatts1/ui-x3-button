@@ -1,8 +1,12 @@
 .App {
   text-align: center;
+
 }
 
 .btn{
   width: 100px;
-  height: 100px;
+  height: 100px; 
+  border-radius: 1em;
+  color: rgb(238, 210, 184);
+  background-color: rgb(151, 218, 180);
 }
